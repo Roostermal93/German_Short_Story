@@ -1,5 +1,5 @@
 {
-    "count": 2,
+    "count": 6,
     "next": null,
     "previous": null,
     "results": [
@@ -11,11 +11,39 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/German/318c5918-4ba3-4f9a-9c69-4f56b36dc8db_de_Male.mp4"
         },
         {
+            "id": "59b8db5f-334f-4213-8126-309dd76136cb",
+            "collectionId": "German",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/German/59b8db5f-334f-4213-8126-309dd76136cb_de_Female.mp4"
+        },
+        {
+            "id": "1cb1e8cb-4c1b-47d0-b654-f17a456e59db",
+            "collectionId": "German",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/German/1cb1e8cb-4c1b-47d0-b654-f17a456e59db_de_Male.mp4"
+        },
+        {
             "id": "fe8e4ce1-9812-44d8-b421-e9af6c2ea786",
             "collectionId": "German",
             "type": "Short_Story",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/German/fe8e4ce1-9812-44d8-b421-e9af6c2ea786_de_Female.mp4"
+        },
+        {
+            "id": "dc205b6f-ebe4-42eb-b294-fa108a6d8c76",
+            "collectionId": "German",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/German/dc205b6f-ebe4-42eb-b294-fa108a6d8c76_de_Male.mp4"
+        },
+        {
+            "id": "d3d4bd82-a48c-44b7-b0a3-0c09f2052487",
+            "collectionId": "German",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/German/d3d4bd82-a48c-44b7-b0a3-0c09f2052487_de_Male.mp4"
         }
     ]
 }
